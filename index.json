@@ -1,0 +1,602 @@
+[
+  {
+    "slug": "bukva-49",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/bukva-49/data.json",
+    "videoPath": "gestures/items/bukva-49/video.mp4"
+  },
+  {
+    "slug": "10",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/10/data.json",
+    "videoPath": "gestures/items/10/video.mp4"
+  },
+  {
+    "slug": "100",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/100/data.json",
+    "videoPath": "gestures/items/100/video.mp4"
+  },
+  {
+    "slug": "11",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/11/data.json",
+    "videoPath": "gestures/items/11/video.mp4"
+  },
+  {
+    "slug": "12",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/12/data.json",
+    "videoPath": "gestures/items/12/video.mp4"
+  },
+  {
+    "slug": "13",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/13/data.json",
+    "videoPath": "gestures/items/13/video.mp4"
+  },
+  {
+    "slug": "14",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/14/data.json",
+    "videoPath": "gestures/items/14/video.mp4"
+  },
+  {
+    "slug": "15",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/15/data.json",
+    "videoPath": "gestures/items/15/video.mp4"
+  },
+  {
+    "slug": "16",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/16/data.json",
+    "videoPath": "gestures/items/16/video.mp4"
+  },
+  {
+    "slug": "17",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/17/data.json",
+    "videoPath": "gestures/items/17/video.mp4"
+  },
+  {
+    "slug": "18",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/18/data.json",
+    "videoPath": "gestures/items/18/video.mp4"
+  },
+  {
+    "slug": "19",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/19/data.json",
+    "videoPath": "gestures/items/19/video.mp4"
+  },
+  {
+    "slug": "bukva-50",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/bukva-50/data.json",
+    "videoPath": "gestures/items/bukva-50/video.mp4"
+  },
+  {
+    "slug": "2-tysyachi",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/2-tysyachi/data.json",
+    "videoPath": "gestures/items/2-tysyachi/video.mp4"
+  },
+  {
+    "slug": "2-chasa",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/2-chasa/data.json",
+    "videoPath": "gestures/items/2-chasa/video.mp4"
+  },
+  {
+    "slug": "20",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/20/data.json",
+    "videoPath": "gestures/items/20/video.mp4"
+  },
+  {
+    "slug": "200",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/200/data.json",
+    "videoPath": "gestures/items/200/video.mp4"
+  },
+  {
+    "slug": "21",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/21/data.json",
+    "videoPath": "gestures/items/21/video.mp4"
+  },
+  {
+    "slug": "22",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/22/data.json",
+    "videoPath": "gestures/items/22/video.mp4"
+  },
+  {
+    "slug": "23",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/23/data.json",
+    "videoPath": "gestures/items/23/video.mp4"
+  },
+  {
+    "slug": "24",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/24/data.json",
+    "videoPath": "gestures/items/24/video.mp4"
+  },
+  {
+    "slug": "25",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/25/data.json",
+    "videoPath": "gestures/items/25/video.mp4"
+  },
+  {
+    "slug": "26",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/26/data.json",
+    "videoPath": "gestures/items/26/video.mp4"
+  },
+  {
+    "slug": "27",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/27/data.json",
+    "videoPath": "gestures/items/27/video.mp4"
+  },
+  {
+    "slug": "28",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/28/data.json",
+    "videoPath": "gestures/items/28/video.mp4"
+  },
+  {
+    "slug": "29",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/29/data.json",
+    "videoPath": "gestures/items/29/video.mp4"
+  },
+  {
+    "slug": "bukva-51",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/bukva-51/data.json",
+    "videoPath": "gestures/items/bukva-51/video.mp4"
+  },
+  {
+    "slug": "30",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/30/data.json",
+    "videoPath": "gestures/items/30/video.mp4"
+  },
+  {
+    "slug": "bukva-52",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/bukva-52/data.json",
+    "videoPath": "gestures/items/bukva-52/video.mp4"
+  },
+  {
+    "slug": "40",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/40/data.json",
+    "videoPath": "gestures/items/40/video.mp4"
+  },
+  {
+    "slug": "400",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/400/data.json",
+    "videoPath": "gestures/items/400/video.mp4"
+  },
+  {
+    "slug": "bukva-53",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/bukva-53/data.json",
+    "videoPath": "gestures/items/bukva-53/video.mp4"
+  },
+  {
+    "slug": "5-tysyach",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/5-tysyach/data.json",
+    "videoPath": "gestures/items/5-tysyach/video.mp4"
+  },
+  {
+    "slug": "50",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/50/data.json",
+    "videoPath": "gestures/items/50/video.mp4"
+  },
+  {
+    "slug": "500",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/500/data.json",
+    "videoPath": "gestures/items/500/video.mp4"
+  },
+  {
+    "slug": "bukva-54",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/bukva-54/data.json",
+    "videoPath": "gestures/items/bukva-54/video.mp4"
+  },
+  {
+    "slug": "6-chasov",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/6-chasov/data.json",
+    "videoPath": "gestures/items/6-chasov/video.mp4"
+  },
+  {
+    "slug": "60",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/60/data.json",
+    "videoPath": "gestures/items/60/video.mp4"
+  },
+  {
+    "slug": "600",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/600/data.json",
+    "videoPath": "gestures/items/600/video.mp4"
+  },
+  {
+    "slug": "bukva-55",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/bukva-55/data.json",
+    "videoPath": "gestures/items/bukva-55/video.mp4"
+  },
+  {
+    "slug": "70",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/70/data.json",
+    "videoPath": "gestures/items/70/video.mp4"
+  },
+  {
+    "slug": "700",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/700/data.json",
+    "videoPath": "gestures/items/700/video.mp4"
+  },
+  {
+    "slug": "7-45-00",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/7-45-00/data.json",
+    "videoPath": "gestures/items/7-45-00/video.mp4"
+  },
+  {
+    "slug": "bukva-56",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/bukva-56/data.json",
+    "videoPath": "gestures/items/bukva-56/video.mp4"
+  },
+  {
+    "slug": "80",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/80/data.json",
+    "videoPath": "gestures/items/80/video.mp4"
+  },
+  {
+    "slug": "800",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/800/data.json",
+    "videoPath": "gestures/items/800/video.mp4"
+  },
+  {
+    "slug": "bukva-57",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/bukva-57/data.json",
+    "videoPath": "gestures/items/bukva-57/video.mp4"
+  },
+  {
+    "slug": "90",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/90/data.json",
+    "videoPath": "gestures/items/90/video.mp4"
+  },
+  {
+    "slug": "900",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/900/data.json",
+    "videoPath": "gestures/items/900/video.mp4"
+  },
+  {
+    "slug": "mcdonald-e2-80-99s",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/mcdonald-e2-80-99s/data.json",
+    "videoPath": "gestures/items/mcdonald-e2-80-99s/video.mp4"
+  },
+  {
+    "slug": "c2-abmakdonalds-c2-bb",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/c2-abmakdonalds-c2-bb/data.json",
+    "videoPath": "gestures/items/c2-abmakdonalds-c2-bb/video.mp4"
+  },
+  {
+    "slug": "bukva-1040",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/bukva-1040/data.json",
+    "videoPath": "gestures/items/bukva-1040/video.mp4"
+  },
+  {
+    "slug": "abzats",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/abzats/data.json",
+    "videoPath": "gestures/items/abzats/video.mp4"
+  },
+  {
+    "slug": "abort",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/abort/data.json",
+    "videoPath": "gestures/items/abort/video.mp4"
+  },
+  {
+    "slug": "absurd",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/absurd/data.json",
+    "videoPath": "gestures/items/absurd/video.mp4"
+  },
+  {
+    "slug": "absurdnyy",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/absurdnyy/data.json",
+    "videoPath": "gestures/items/absurdnyy/video.mp4"
+  },
+  {
+    "slug": "avariya",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/avariya/data.json",
+    "videoPath": "gestures/items/avariya/video.mp4"
+  },
+  {
+    "slug": "avgust",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/avgust/data.json",
+    "videoPath": "gestures/items/avgust/video.mp4"
+  },
+  {
+    "slug": "avgustovskiy",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/avgustovskiy/data.json",
+    "videoPath": "gestures/items/avgustovskiy/video.mp4"
+  },
+  {
+    "slug": "avtobus",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/avtobus/data.json",
+    "videoPath": "gestures/items/avtobus/video.mp4"
+  },
+  {
+    "slug": "avtobusnyy",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/avtobusnyy/data.json",
+    "videoPath": "gestures/items/avtobusnyy/video.mp4"
+  },
+  {
+    "slug": "avtomat",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/avtomat/data.json",
+    "videoPath": "gestures/items/avtomat/video.mp4"
+  },
+  {
+    "slug": "avtomobil",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/avtomobil/data.json",
+    "videoPath": "gestures/items/avtomobil/video.mp4"
+  },
+  {
+    "slug": "avtoritet",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/avtoritet/data.json",
+    "videoPath": "gestures/items/avtoritet/video.mp4"
+  },
+  {
+    "slug": "agressivnyy",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/agressivnyy/data.json",
+    "videoPath": "gestures/items/agressivnyy/video.mp4"
+  },
+  {
+    "slug": "agressiya",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/agressiya/data.json",
+    "videoPath": "gestures/items/agressiya/video.mp4"
+  },
+  {
+    "slug": "adaptivnoe-povedenie",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/adaptivnoe-povedenie/data.json",
+    "videoPath": "gestures/items/adaptivnoe-povedenie/video.mp4"
+  },
+  {
+    "slug": "adaptivnost",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/adaptivnost/data.json",
+    "videoPath": "gestures/items/adaptivnost/video.mp4"
+  },
+  {
+    "slug": "adaptivnyy",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/adaptivnyy/data.json",
+    "videoPath": "gestures/items/adaptivnyy/video.mp4"
+  },
+  {
+    "slug": "azerbaydzhan",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/azerbaydzhan/data.json",
+    "videoPath": "gestures/items/azerbaydzhan/video.mp4"
+  },
+  {
+    "slug": "akkumulyator",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/akkumulyator/data.json",
+    "videoPath": "gestures/items/akkumulyator/video.mp4"
+  },
+  {
+    "slug": "akkuratnyy",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/akkuratnyy/data.json",
+    "videoPath": "gestures/items/akkuratnyy/video.mp4"
+  },
+  {
+    "slug": "aktivno",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/aktivno/data.json",
+    "videoPath": "gestures/items/aktivno/video.mp4"
+  },
+  {
+    "slug": "aktivnost",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/aktivnost/data.json",
+    "videoPath": "gestures/items/aktivnost/video.mp4"
+  },
+  {
+    "slug": "aktivnyy",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/aktivnyy/data.json",
+    "videoPath": "gestures/items/aktivnyy/video.mp4"
+  },
+  {
+    "slug": "akula",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/akula/data.json",
+    "videoPath": "gestures/items/akula/video.mp4"
+  },
+  {
+    "slug": "aktsent",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/aktsent/data.json",
+    "videoPath": "gestures/items/aktsent/video.mp4"
+  },
+  {
+    "slug": "alkogol",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/alkogol/data.json",
+    "videoPath": "gestures/items/alkogol/video.mp4"
+  },
+  {
+    "slug": "alleya",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/alleya/data.json",
+    "videoPath": "gestures/items/alleya/video.mp4"
+  },
+  {
+    "slug": "alligator",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/alligator/data.json",
+    "videoPath": "gestures/items/alligator/video.mp4"
+  },
+  {
+    "slug": "albom",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/albom/data.json",
+    "videoPath": "gestures/items/albom/video.mp4"
+  },
+  {
+    "slug": "albomnyy",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/albomnyy/data.json",
+    "videoPath": "gestures/items/albomnyy/video.mp4"
+  },
+  {
+    "slug": "ambitsioznyy",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/ambitsioznyy/data.json",
+    "videoPath": "gestures/items/ambitsioznyy/video.mp4"
+  },
+  {
+    "slug": "amerika",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/amerika/data.json",
+    "videoPath": "gestures/items/amerika/video.mp4"
+  },
+  {
+    "slug": "analiz",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/analiz/data.json",
+    "videoPath": "gestures/items/analiz/video.mp4"
+  },
+  {
+    "slug": "angina",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/angina/data.json",
+    "videoPath": "gestures/items/angina/video.mp4"
+  },
+  {
+    "slug": "angliyskiy",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/angliyskiy/data.json",
+    "videoPath": "gestures/items/angliyskiy/video.mp4"
+  },
+  {
+    "slug": "angliya",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/angliya/data.json",
+    "videoPath": "gestures/items/angliya/video.mp4"
+  },
+  {
+    "slug": "anekdot",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/anekdot/data.json",
+    "videoPath": "gestures/items/anekdot/video.mp4"
+  },
+  {
+    "slug": "animator",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/animator/data.json",
+    "videoPath": "gestures/items/animator/video.mp4"
+  },
+  {
+    "slug": "antiperspirant",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/antiperspirant/data.json",
+    "videoPath": "gestures/items/antiperspirant/video.mp4"
+  },
+  {
+    "slug": "apelsin",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/apelsin/data.json",
+    "videoPath": "gestures/items/apelsin/video.mp4"
+  },
+  {
+    "slug": "aplodismenty",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/aplodismenty/data.json",
+    "videoPath": "gestures/items/aplodismenty/video.mp4"
+  },
+  {
+    "slug": "appetit",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/appetit/data.json",
+    "videoPath": "gestures/items/appetit/video.mp4"
+  },
+  {
+    "slug": "arbuz",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/arbuz/data.json",
+    "videoPath": "gestures/items/arbuz/video.mp4"
+  },
+  {
+    "slug": "argentina",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/argentina/data.json",
+    "videoPath": "gestures/items/argentina/video.mp4"
+  },
+  {
+    "slug": "argentinskiy",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/argentinskiy/data.json",
+    "videoPath": "gestures/items/argentinskiy/video.mp4"
+  },
+  {
+    "slug": "arest",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/arest/data.json",
+    "videoPath": "gestures/items/arest/video.mp4"
+  },
+  {
+    "slug": "arestovat",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/arestovat/data.json",
+    "videoPath": "gestures/items/arestovat/video.mp4"
+  },
+  {
+    "slug": "armeyskiy",
+    "title": "Видеословарь русского жестового языка",
+    "dataPath": "gestures/items/armeyskiy/data.json",
+    "videoPath": "gestures/items/armeyskiy/video.mp4"
+  }
+]
